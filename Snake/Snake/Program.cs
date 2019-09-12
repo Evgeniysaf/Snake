@@ -12,6 +12,8 @@ namespace Snake
         {
             Console.WriteLine("Helo");
             Console.ReadLine();
+            Console.WriteLine("Helo");
+            Console.ReadLine();
         }
     }
 }
