@@ -17,8 +17,12 @@ namespace Snake
             p1.Drow();
 
             Point p2 = new Point(4, 5, '#');
-           
+
             p2.Drow();
+
+            Point pp22 = new Point(6, 12, '$');
+
+            pp22.Drow();
 
             Console.ReadLine();
         }
